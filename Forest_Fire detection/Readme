@@ -1,1 +1,9 @@
 
+# Mini-Project: Linear Regression
+(Forest Fire Prediction)
+
+This mini-project aims to explore the learning of linear and non-linear prediction functions using the least squares method and regularized least squares. The evaluation of this prediction is performed on real-world datasets (Biomedical, Energy, Finance, etc.).
+
+Data Description
+For this mini-project, we consider the "Forest Fire Prediction" dataset.
+The file forestfires.csv contains several variables.
